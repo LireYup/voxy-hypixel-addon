@@ -4,6 +4,9 @@ A standalone Fabric addon for **[Voxy](https://modrinth.com/mod/voxy)** designed
 
 Created by **[TBlazeWarriorT](https://linktr.ee/tblazewarriort)**.
 
+## What changed in this fork?
+The way to check if you're on Skyblock when entering the server
+
 ## ⚠️ Beta Notice
 This mod is an addon for Voxy, which is currently in **Beta** development stage. Voxy updates may temporarily break this mod, and please report any major issues found.
 
